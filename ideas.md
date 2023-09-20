@@ -9,6 +9,13 @@
     * Examples and implementations of community engagement practices
     * Examples of positive community interactions
 
+* Organize contents by concern, e.g.:
+    * Concern about scooping:
+        * Open work protects you. 
+        * Zenodo archivals are proof of work.
+        * License and copyright provide legal protection.
+    * Concern about failing in public: ...
+
 
 ## Title phrasing
 
