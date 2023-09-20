@@ -1,7 +1,5 @@
 # Ideas
 
-## Focus area
-
 * Lower barriers (technological and psychological) to research development and community engagement on GitHub
     * Licensing
     * Citation metadata
