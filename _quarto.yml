@@ -1,0 +1,23 @@
+project:
+  type: "website"
+
+
+website:
+  title: "BSSw-fellowship-application"
+  navbar:
+    left:
+      - text: "Home"
+        href: "index.md"
+      - text: "Application materials"
+        href: "application.md"
+      - text: "Ideas"
+        href: "ideas.md"
+      - text: "Resources"
+        href: "resources.md"
+
+
+format:
+  html:
+    theme: "cosmo"
+    css: "styles.css"
+    toc: true
