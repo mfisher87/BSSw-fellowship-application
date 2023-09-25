@@ -4,9 +4,10 @@ I propose to develop online resources documenting technical and practice-based s
 and remediations for technological and psychological barriers hindering researchers from
 engaging in open collaboration patterns. These resources would act as a gateway for
 for researchers and research software developers, both new and experienced, to adapt to
-increasing demand for openness in science. [TODO: Provide tools and education to
-community leaders and aspiring community leaders; "Once my thing is 'open' how do I
-create my own positive community interactions?"]
+increasing demand for openness in science. [TODO: Provide links to external resources,
+e.g. Scientific Python Developer Guide] [TODO: Provide tools and education to community
+leaders and aspiring community leaders; "Once my thing is 'open' how do I create my own
+positive community interactions?"]
 
 I propose to build an open, safe, and supportive community of practice on GitHub which
 will benefit from, contribute to, and sustain the online documentation resources
