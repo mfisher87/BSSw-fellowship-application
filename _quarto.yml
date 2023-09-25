@@ -3,9 +3,21 @@ project:
 
 
 website:
-  title: "BSSw-fellowship-application"
-  navbar:
-    left:
+  title: "BSSw Fellowship Application"
+  repo-url: "https://github.com/mfisher87/BSSw-fellowship-application"
+  repo-actions:
+    - "edit"
+    - "source"
+    - "issue"
+
+  page-footer:
+    right: "This page is built with [Quarto](https://quarto.org/)."
+    left: "&copy;"
+
+  sidebar:
+    background: "#eee"
+    search: true
+    contents:
       - text: "Home"
         href: "index.md"
       - text: "Application materials"
