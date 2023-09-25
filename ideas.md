@@ -33,9 +33,32 @@
 * "Demystifying"?
 * "Techniques for ..."
 * "Best practices for ..."
+* _Resources for the GitHub-skeptical scientist_ 
+* _Lowering barriers to ..._
+* _Addressing technical and interpersonal barriers to open collaborations_
+* _Researcher's handbook for open collaborations_
+
+
+## Intro
+
+Focus on my observations of discomfort from researchers. What are the possible concerns?
+Use the story about Antarctica Today as an anecdote?
 
 
 ## Side benefits
 
 * Update Scientific Python Developer Guide / copier template with software citation
   details
+
+
+## GitHub training for scientists with a focus on overcoming discomfort working publicly
+
+### A website that collects examples of positive open-source community interactions
+
+### Training or resources and infrastructure for trainers
+
+### GitHub / Git  training from different perspectives
+
+* First principles
+* "Just let me work"
+* Optimizing collaboration
