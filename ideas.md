@@ -27,6 +27,11 @@
   from this cohort.
     * Overlap / conflict with TOPS?
 
+* Document best practices for engaging in open communities from both ends. E.g.:
+    * As a person seeking help, you should know how to make an MVE/SSCCE to reproduce
+      your issue.
+    * As a person managing a community, you should know ...
+
 
 ## Title phrasing
 
