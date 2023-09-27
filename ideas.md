@@ -47,8 +47,9 @@ Use the story about Antarctica Today as an anecdote?
 
 ## Side benefits
 
-* Update Scientific Python Developer Guide / copier template with software citation
-  details
+* Contribute to other projects:
+    * Update Scientific Python Developer Guide / copier template with software citation
+      details
 
 
 ## GitHub training for scientists with a focus on overcoming discomfort working publicly
@@ -59,6 +60,6 @@ Use the story about Antarctica Today as an anecdote?
 
 ### GitHub / Git  training from different perspectives
 
-* First principles
-* "Just let me work"
-* Optimizing collaboration
+* First principles: How does Git work under the hood?
+* "Just let me work": How can I start using Git every day with minimal time investment?
+* Optimizing collaboration: What do I need to know to work effectively with others?
