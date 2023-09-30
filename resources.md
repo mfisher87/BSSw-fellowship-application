@@ -4,6 +4,7 @@
     * [FAQ](https://bssw.io/pages/bssw-fellowship-faq)
     * [Past fellows](https://bssw.io/pages/meet-our-fellows)
 * [Application](https://bssw.io/pages/apply-for-the-bssw-fellowship-program)
+* [Community of Practice Examples](https://www.thinkific.com/blog/community-of-practice-examples/#learning-community)
 
 
 ## Inspirations
