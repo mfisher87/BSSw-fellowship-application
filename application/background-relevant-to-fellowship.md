@@ -3,31 +3,28 @@
 > ...asking about evidence that you could be an effective advocate for better scientific
 > software, reaching out to others to convey what you know as an expert.
 
-Several experiences in 2022 and 2023 caused me to realize a new passion for teaching and
-advocacy for inclusive scientific sofware development practices. These experiences
-included various community interactions, joining several new communities (NASA
-Openscapes, CSCCE), and becoming a maintainer and/or contributor of several open-source
-projects (matplotlib/viscm, nsidc/earthaccess, conda/conda-lock, conda-forge
-feedstocks). The most significant experience contributing to my new passion was
-co-leading the development of the QGreenland 2023 Researcher Workshop, a 3-day hands-on
-open source workshop focused on geospatial data standards and practices.
+Several experiences in 2022-2023 inspired my passion for teaching and advocating for
+inclusive scientific software development practices. These included joining open
+communities, becoming a maintainer and contributor of several open-source projects, and
+most significantly, co-authoring and presenting the QGreenland 2023 Researcher Workshop.
 
-In creating this workshop with my colleague Trey Stafford and PI Twila Moon, I
-benefitted from collaborations with education experts in the CIRES Education & Outreach
-office, cloud computing experts with CryoCloud and 2i2c, and domain experts
-participating in our workshop from all career levels and from around the world. Positive
-interactions with these communities and the satisfaction of creating open educational
-materials that will continue to be useful was one of the most rewarding experiences of
-my career, and I'm motivated to continue down this path.
+In co-creating the workshop, I benefited from collaborations with education experts from
+CIRES Education & Outreach, cloud infrastructure experts from CryoCloud and 2i2c, and
+the 25 international domain experts of all career levels who participated in our
+workshop. Learning from these brilliant people and creating rich and open educational
+materials that have proven valuable to other educators has been the most rewarding
+experience of my career, and I’m motivated to continue this work.
 
-My collaborations with 2i2c resulted in a post on the Jupyter blog
-(<https://blog.jupyter.org/desktop-gis-software-in-the-cloud-with-jupyterhub-ddced297019a>),
-and my collaborations with Openscapes eventually resulted in a role as an Openscapes
-Mentor. Through this role, I will take The Carpentries Instructor Training, which will
-improve my skill at producing educational materials and delivering trainings.
+Documenting this effort, I wrote a Jupyter blog post [^jupyter-blog-post] that inspired
+others to replicate our work. I am also collaborating with Openscapes lead and 2022 BSSw
+Fellow Julie Stewart Lowndes: I have been increasing my practice in mentoring others
+through my role as a NASA Openscapes Mentor and through Carpentries Instructor Training.
+My technical background and newly awakened passion for inclusiveness and education,
+combined with the relationships I’ve built in open communities, position me for success
+as a BSSw Fellow.
 
-Additional evidence of my open source community contributions can be found through my
-two GitHub accounts:
+Additional evidence of open community contributions can be found on GitHub:
+[@mfisher87](https://github.com/mfisher87) and
+[@MattF-NSIDC](https://github.com/MattF-NSIDC)
 
-* <https://github.com/mfisher87>
-* <https://github.com/mattf-nsidc>
+[^jupyter-blog-post]: https://blog.jupyter.org/desktop-gis-software-in-the-cloud-with-jupyterhub-ddced297019a

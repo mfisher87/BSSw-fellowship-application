@@ -1,28 +1,23 @@
 ### What would you do as a BSSw Fellow? (1000 - 1500 characters)
 
-I propose to develop online resources documenting technical and practice-based solutions
-and remediations for technological and psychological barriers hindering researchers from
-engaging in open collaboration patterns. These resources would act as a gateway for
-for researchers and research software developers, both new and experienced, to adapt to
-increasing demand for openness in science. [TODO: Provide links to external resources,
-e.g. Scientific Python Developer Guide] [TODO: Provide tools and education to community
-leaders and aspiring community leaders; "Once my thing is 'open' how do I create my own
-positive community interactions?"]
+Current approaches to helping researchers adopt open collaboration patterns largely
+focus on technical training – teaching new tools and workflows. However, from my
+experience developing and teaching an open science workshop, mentoring individual
+researchers in open science practices, and open science strategic planning, learning is
+often stymied by discomfort.
 
-I propose to build an open, safe, and supportive community of practice on GitHub which
-will benefit from, contribute to, and sustain the online documentation resources
-mentioned above. I will leverage contacts from communities I am currently a member of,
-including  National Snow and Ice Data Center (NSIDC), NASA Openscapes, NASA EOSDIS,
-CryoCloud, Jupyter, and Center for Scientific Collaboration and Community Engagement
-(CSCCE), to seed this community with researchers who are transitioning to new ways of
-working openly.
+To fill this gap, I will develop within the Openscapes community a “GitHub group”, an
+open, safe, and supportive community of practice to help researchers comfortably
+participate in and lead communities on GitHub. I will seed this community with
+additional members from NSIDC, QGreenland, NASA EOSDIS, Jupyter, CryoCloud, and Center
+for Scientific Collaboration and Community Engagement. I will interview community
+members to gauge needs and growth over the performance period, establish open
+communication on GitHub Discussions, and identify patterns of discomfort and effective
+practices for addressing fears and concerns with open work modes. Community members will
+also help identify priorities and ensure the scope of work is achievable.
 
-These materials will differentiate from other open science training materials and
-communities by emphasizing positive experiences enabled by and addressing fears and
-concerns about open work modes. [Emphasizing positive exp.: provide a forum space for
-sharing them?] [Addressing fears and concerns: In my experience, these fears have often
-been overcomable with a small amount of time and care: fear of failing publicly by
-sharing examples of positive experiences failing publicly; fear of "scooping",
-intellectual theft, or improper citation by configuring citation metadata and automatic
-archival and DOI generation with Zenodo; and fear of loss of ownership by establishing
-collaborative governance.]
+With the aid of this valuable input, I will create online documentation and, if budget
+allows, educational videos for common needs and pitfalls, facilitate community
+collaboration, and provide technical and emotional support. These materials will include
+tutorials, curated links to external resources, and guidance for researchers to
+participate in and lead open source communities.
