@@ -21,7 +21,7 @@ website:
       - text: "Home"
         href: "index.md"
       - text: "Application materials"
-        href: "application.md"
+        href: "application/index.md"
       - text: "Ideas"
         href: "ideas.md"
       - text: "Resources"
