@@ -16,6 +16,7 @@ website:
 
   sidebar:
     background: "#eee"
+    style: "docked"
     search: true
     contents:
       - text: "Home"
