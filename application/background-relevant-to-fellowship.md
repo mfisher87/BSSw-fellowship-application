@@ -27,4 +27,4 @@ Additional evidence of open community contributions can be found on GitHub:
 [@mfisher87](https://github.com/mfisher87) and
 [@MattF-NSIDC](https://github.com/MattF-NSIDC)
 
-[^jupyter-blog-post]: https://blog.jupyter.org/desktop-gis-software-in-the-cloud-with-jupyterhub-ddced297019a
+[^jupyter-blog-post]: <https://blog.jupyter.org/desktop-gis-software-in-the-cloud-with-jupyterhub-ddced297019a>

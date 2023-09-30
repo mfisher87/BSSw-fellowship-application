@@ -36,6 +36,6 @@ work has included:
   environments.
 
 
-[^qgreenland]: https://qgreenland.org
-[^qgreenland-workshop]: https://qgreenland-workshop-2023-researcher.github.io/
-[^git-training]: https://nsidc-git-training.readthedocs.io
+[^qgreenland]: <https://qgreenland.org>
+[^qgreenland-workshop]: <https://qgreenland-workshop-2023-researcher.github.io/>
+[^git-training]: <https://nsidc-git-training.readthedocs.io>
