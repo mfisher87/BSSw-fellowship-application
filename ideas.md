@@ -1,6 +1,10 @@
 # Ideas
 
-* Lower barriers (technological and psychological) to research development and community engagement on GitHub
+* Consider a [twelve-factor app](https://12factor.net/)-inspired checklist for open
+  communities.
+
+* Lower barriers (technological and psychological) to research development and community
+  engagement on GitHub
     * Licensing
     * Citation metadata
     * Tools for community engagement
