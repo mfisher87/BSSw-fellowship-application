@@ -3,8 +3,8 @@ project:
 
 
 website:
-  title: "BSSw Fellowship Application"
-  repo-url: "https://github.com/mfisher87/BSSw-fellowship-application"
+  title: "BSSw Fellowship Application (2024)"
+  repo-url: "https://github.com/mfisher87/BSSw-fellowship-application-2024"
   repo-actions:
     - "edit"
     - "source"
@@ -19,8 +19,6 @@ website:
     style: "docked"
     search: true
     contents:
-      - text: "Home"
-        href: "index.md"
       - text: "Application materials"
         href: "application/index.md"
       - text: "Ideas"

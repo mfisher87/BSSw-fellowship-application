@@ -1,5 +1,5 @@
 ---
-title: "BSSw Fellowship application"
+title: "BSSw Fellowship application (2024)"
 ---
 
 This repository is my workspace for building my application for a 2024 BSSw Fellowship.
